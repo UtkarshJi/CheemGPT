@@ -1,0 +1,125 @@
+*{
+    color: #fff;
+    font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica, Apple Color Emoji, Arial, Segoe UI Emoji, Segoe UI Symbol;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    position: relative; /* Make body a positioning context for absolute positioning */
+}
+
+.background-img {
+    position: absolute; /* Position the image absolutely */
+    top: 10px;
+    left: 57%; /* Position horizontally at the center */
+    transform: translateX(-50%);
+    align-items: center;
+    width: 30%; /* Set width to 40% of the viewport width */
+    height: auto; /* Maintain aspect ratio */
+    z-index: -1; /* Move image behind all other content */
+}
+h1{
+    font-size: 33px;
+    font-weight: 600;
+    padding: 200px 0;
+}
+.side-bar{
+    background-color: #171717;
+    width: 244px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+
+.bottom-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 110px;
+}
+
+.info{
+    color: #b4b4b4;
+    font-size: 11px;
+    padding: 10px;
+}
+
+input{
+    background-color: #2f2f2f;
+    font-size: 20px;
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: 25px;
+    border: none;
+}
+input:focus{
+    outline: none;
+}
+
+.input-container{
+    position: relative;
+    width: 100%;
+    max-width: 700px;
+    
+}
+.input-container #submit{
+    position: absolute;
+    right: 0;
+    bottom: 15px;
+    cursor: pointer;
+}
+
+button{
+    border: solid 0.5px rgba(255, 255, 255, 0.5);
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;    
+}
+nav{
+    border-top: solid 0.5px rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    margin: 10px;       
+}
+.history{
+    padding: 10px;
+    margin: 10px;   
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.history p{
+    cursor: pointer;
+}
+.nav {
+    text-align: center; 
+    padding: 10px;
+    margin: 10px;
+}
+
+.nav p {
+    margin: 0;
+}
+
+
