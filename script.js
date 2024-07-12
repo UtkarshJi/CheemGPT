@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = '';  // <------- enter your Api key here
 const submitButton = document.querySelector('#submit');
 const outputElement = document.querySelector('#output');
 const inputElement = document.querySelector('input');
