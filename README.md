@@ -48,7 +48,8 @@ CheemGPT/
 - **style.css**: The CSS file containing styles for the application.
 - **script.js**: The JavaScript file containing the logic for handling user interactions and API calls.
 - **README.md**: This file, containing information about the project.
-- **Original_Doge_meme.jpg**: The icon for the application.
+- **favicon-img.jpg**: The icon for the application.
+- **bg-image.jpg**: The background image for the application.
 
 ## 🎨 Technologies Used
 
