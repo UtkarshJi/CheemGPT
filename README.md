@@ -9,7 +9,7 @@ CheemGPT is an AI-powered chatbot application that helps you turn your coding ni
 ## 🔧 **Installation**
 
 ### 🔑 **Generate your API Key:**
-- **Get your own API Key at : https://console.groq.com/keys**
+**Get your own API Key at : https://console.groq.com/keys**
 
 
 
