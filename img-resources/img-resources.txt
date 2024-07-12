@@ -1,0 +1,2 @@
+Use the images provided.
+Paste the images in the same directory as of your other code
