@@ -29,6 +29,8 @@ Type your message in the input field and click the "➢" button.
 Previous prompts are displayed in the history section. Click on a prompt to see its response.
 
 ## 📁 **Project Structure**
+
+```text
 CheemGPT/
 ├── index.html
 ├── style.css
