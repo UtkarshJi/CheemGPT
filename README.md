@@ -12,10 +12,10 @@ CheemGPT is an AI-powered chatbot application that helps you turn your coding ni
 git clone https://github.com/UtkarshJi/CheemGPT.git
 
 ### **2. Navigate to the project directory:**
-cd CheemGPT
+~cd CheemGPT
 
 ### **3. Open the project in your favorite code editor:**
-code .
+~code .
 
 ## 📋 **Usage**
 
@@ -43,3 +43,34 @@ CheemGPT/
 - **script.js**: The JavaScript file containing the logic for handling user interactions and API calls.
 - **README.md**: This file, containing information about the project.
 - **Original_Doge_meme.jpg**: The icon for the application.
+
+## 🎨 Technologies Used
+
+- **HTML**: For the structure of the web pages.
+- **CSS**: For styling the web pages.
+- **JavaScript**: For handling the logic and API interactions.
+- **GROQ API**: For fetching responses from the AI.
+
+## 🛠️ Features
+
+- **Interactive Chat Interface** 🎉
+- **Chat History** 📜
+- **Responsive Design** 💻📱
+
+## 👨‍💻 Contributing
+
+Contributions are welcome! Please fork this repository and open a pull request to contribute.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## ✨ Credits
+
+Made with ❤️ by [UtkarshJi](https://github.com/UtkarshJi)
+
+## 📞 Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+**Happy Coding!** 😄🎉
