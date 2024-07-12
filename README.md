@@ -41,7 +41,8 @@ CheemGPT/
 ├── style.css
 ├── script.js
 ├── README.md
-└── Original_Doge_meme.jpg
+├── bg-image.jpg
+└── favicon-img.jpg
 ```
 - **index.html**: The main HTML file for the application.
 - **style.css**: The CSS file containing styles for the application.
