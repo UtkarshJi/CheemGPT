@@ -1,3 +1,5 @@
+//do not forget to get your API key and paste it inside the API_KEY variable at line 3
+
 const API_KEY = '';  // <------- enter your Api key here
 const submitButton = document.querySelector('#submit');
 const outputElement = document.querySelector('#output');
