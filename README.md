@@ -64,7 +64,7 @@ CheemGPT/
 - **Chat History** 📜
 - **Responsive Design** 💻📱
 
-## 👨‍💻 Contributing
+## 👨‍💻 Contributing 
 
 Contributions are welcome! Please fork this repository and open a pull request to contribute.
 
